@@ -1,0 +1,41 @@
+{
+  "discountData": [
+    {
+      "name": "Discount: 50 THB",
+      "campaigns": "Fixed amount",
+      "categories": "Coupon",
+      "Amount": 50,
+      "id": 1
+    },
+    {
+      "name": "Discount: 10%",
+      "campaigns": "Percentage discount",
+      "categories": "Coupon",
+      "Percentage": 10,
+      "id": 2
+    },
+    {
+      "name": "Discount: 15% Off on Clothing",
+      "campaigns": "Percentage discount by item category",
+      "categories": "On Top",
+      "Category": "Clothing",
+      "Amount": 15,
+      "id": 3
+    },
+    {
+      "name": "The amount will be capped at 20% of total price",
+      "campaigns": "Discount by points",
+      "categories": "On Top",
+      "Percentage": 20,
+      "id": 4
+    },
+    {
+      "name": "Discount: 40 THB at every 300 THB",
+      "campaigns": "Seasonal",
+      "categories": "Special campaigns",
+      "Every": 300,
+      "Discount": 40,
+      "id": 5
+    }
+  ]
+}
