@@ -1,7 +1,7 @@
-# React + TypeScript + Vite
+# Name: Pimpakarn Banyaem
 
-# Pimpakarn Banyaem
-
-# Start Project
+# Start Json Server
 npm run server
+
+#Start React
 npm run dev
